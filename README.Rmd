@@ -1,0 +1,8 @@
+---
+output: 
+  html_document:
+    keep_md: true
+---
+##Practical machine learning Project
+This project is aimed to quantify how well people perform in an exercise.
+We will use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants, who were asked to perform barbell lifts correctly and incorrectly in 5 different ways. More information is [here](http://groupware.les.inf.puc-rio.br/har). Our goal is build a model from the [training data](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv) to predict the manner in which they did the exercise in the [test data](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv).
